@@ -1,0 +1,13 @@
+{
+  "name": "my-react-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "proxies": [
+    {
+      "path": "/api",
+      "proxyUrl": "http://localhost:7062"
+    }
+  ],
+  "type": "react-vite"
+}

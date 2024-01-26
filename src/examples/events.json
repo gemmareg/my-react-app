@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Grand Gala Night",
+    "description": "An elegant evening filled with music, dance, and fine dining under the starry sky.",
+    "date": "2024-01-25T00:00:00",
+    "idUser": 1,
+      "photo": "event1.png"
+  },
+  {
+    "id": 2,
+    "name": "Tech Innovators Summit",
+    "description": "Explore the latest trends and innovations in technology with industry experts and thought leaders.",
+    "date": "2024-02-10T00:00:00",
+    "idUser": 1,
+    "photo":  "event2.png"
+  },
+  {
+    "id": 3,
+    "name": "Adventure Hike and Camp",
+    "description": "Embark on a thrilling outdoor adventure with a day of hiking followed by a night of camping under the moonlit sky.",
+    "date": "2024-03-05T00:00:00",
+    "idUser": 1,
+    "photo": "event3.png"
+  },
+  {
+    "id": 4,
+    "name": "Artistic Expressions Exhibition",
+    "description": "A showcase of diverse artistic expressions featuring paintings, sculptures, and interactive installations.",
+    "date": "2024-04-20T00:00:00",
+    "idUser": 1,
+    "photo": "event4.png"
+  },
+  {
+    "id": 5,
+    "name": "Global Food Fest",
+    "description": "Savor the flavors of the world with a culinary journey featuring international cuisines and culinary demonstrations.",
+    "date": "2024-05-15T00:00:00",
+    "idUser": 1,
+    "photo": "event5.png"
+  }
+]
